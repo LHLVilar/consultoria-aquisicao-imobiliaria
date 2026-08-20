@@ -31,3 +31,4 @@
 - [x] Documentar fluxo de versionamento e backup pelo GitHub
 - [x] Documentar publicação pelo botão Publish e configuração de domínio próprio
 - [x] Documentar edição futura de textos, contatos e configurações sem quebrar o formulário ou painel
+- [ ] Exportar o projeto atual para um novo repositório privado no GitHub conectado
